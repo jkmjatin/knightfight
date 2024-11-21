@@ -9,10 +9,13 @@
 * Once downloaded, extract the file and run the executable file (.exe) to start the game.
 * The file named **'Knight_Fight-Jatin_Kumar_Mehta.console.exe'** depends on **'Knight_Fight-Jatin_Kumar_Mehta.7z'**. It runs the same game but includes a console for additional output or debugging.
 ---
+### FOR DEVELOPERS
+* The directory 'source-file_game_dev' contains all the used assets.
 * Game Engine Used: **Godot**
+* Game engine **Godot**: https://godotengine.org/
 * Programming Language/s Used: **GDScript**
 * Game Assets By: **Brackeys**
-* Assets (Link): https://brackeysgames.itch.io/brackeys-platformer-bundle
+* Assets (Original Copy): https://brackeysgames.itch.io/brackeys-platformer-bundle
 * **SHOUTOUT** to **BRACKEYS** for the assets: https://brackeys.com/
 ---
 * **Shoutout** to **Tech With Tim**: https://www.youtube.com/@TechWithTim
