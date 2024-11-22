@@ -28,4 +28,4 @@
 * This game is not complete.
 * This game does not include any sound effects.
 ---
-Conclusion: This game is a mini-project created to showcase my ability to learn game development from scratch and build a basic game within 2 days.
+Conclusion: This game is a mini-project created to showcase my ability to learn game development from scratch and build a basic game within 3 days.
